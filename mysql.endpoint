@@ -1,0 +1,1 @@
+db:mysql={"database":"juju", "user": "root", "password": "root", "private-address": "172.17.42.1"}
